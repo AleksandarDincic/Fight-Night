@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fight Night</string>
+    <string name="select_game">Select Game:</string>
+    <string name="add_game">Add Game</string>
+    <string name="name_game_enter">Game name</string>
+    <string name="add_game_buton">Add</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="characters_tab">Characters</string>
+    <string name="players_tab">Players</string>
+    <string name="matchHistory_tab">Match History</string>
+    <string name="games_played">Games Played</string>
+    <string name="games_won">Games Won</string>
+    <string name="win_rate">WR</string>
+    <string name="name_character_enter">Character name</string>
+    <string name="name_player_enter">Player name</string>
+    <string name="player_1">Player 1</string>
+    <string name="player1_char">Player 1 character</string>
+    <string name="player2">Player 2</string>
+    <string name="player2_char">Player 2 character</string>
+    <string name="winner">Winner</string>
+    <string name="browse_image">Browse Image</string>
+    <string name="button_prev">Prev</string>
+    <string name="button_next">Next</string>
+    <string-array name="character_sort_array">
+        <item>Name, A-Z</item>
+        <item>Name, Z-A</item>
+        <item>Win Rate, Lowest first</item>
+        <item>Win Rate, Highest first</item>
+    </string-array>
+</resources>
